@@ -60,4 +60,4 @@ The analysis includes visualizations using Matplotlib, Plotly and Seaborn.
 
 
 ## Conclusion 
-* In This Project, I made Exploratory data analysis of world population between 1960-2020.I have explored lots of insights by visualizing the dataset. According to my analysis European,American and far east countries's population growing raito is reducing each year.
+* In This Project, I made an Exploratory data analysis of the world population between 1960-2020. I have explored lots of insights by visualizing the dataset. According to my analysis European, American, and Far east countries' population growing rate is reducing each year.
